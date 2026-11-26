@@ -1,0 +1,36 @@
+body{
+  font-family: sans-serif;
+  background-color: #FADADD;
+    padding: 20px 40px;
+}
+img {
+    height: 228px;
+    border-radius: 12px;
+    margin: 8px;
+}
+h1 {
+    text-align: center;
+    background-color: #FFFEF5;
+    color: #473335;
+    padding: 20px 0px;
+    border-radius: 12px;
+    font-size: 30px;
+}
+h2 {
+    color: #473335;
+}
+p {
+    color: #473335;
+    font-size: 20px;
+}
+
+h3 {
+    color: #473335;
+    text-align: center;
+}
+h4 {
+    color: #473335;
+    text-align: center;
+    font-size: 18px;
+    padding: 20px;
+}
